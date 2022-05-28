@@ -1,4 +1,4 @@
 # midterm_fswd
-cd frontend
-npm install
-npm rundev
+## cd frontend
+## npm install
+## npm rundev
